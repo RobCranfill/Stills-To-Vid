@@ -12,6 +12,8 @@ Prerequisites
 * C or C++ compiler;
 * CMake (version 2.8 used; required? That's what it says in the CMake file itself);
 * This was developed on Linux (Ubuntu 12.04 and Raspian Wheezy) but might-should work elesewhere?
+* If you want to run the example script, it uses 'wget'.
+
 
 Usage
 -----
