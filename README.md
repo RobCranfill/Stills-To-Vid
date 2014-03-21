@@ -10,7 +10,7 @@ Prerequisites
 -------------
 * OpenCV. This was done using OpenCV 2.6, and I *think* it requires at least that version, but haven't tested anywhere else;
 * C or C++ compiler;
-* CMake (version 2.8 used; required? That's what it says in the CMake file itself.)
+* CMake (version 2.8 used; required? That's what it says in the CMake file itself);
 * This was developed on Linux (Ubuntu 12.04 and Raspian Wheezy) but might-should work elesewhere?
 
 Usage
